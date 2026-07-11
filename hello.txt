@@ -2,3 +2,4 @@ Hello, Git!
 This is my first Git repository.
 Git is interesting!
 Today I learned git log.
+I practiced Git today.
